@@ -4,6 +4,9 @@ Prosty program dla wsparcia KSeF (Krajowy System e-Faktur).
 > [!IMPORTANT]
 > Wersja ze wsparciem dla systemu KSeF 2.0 jest już dostępna. Proszę o wysyłanie zapytań na adres email - jpk.vdek@gmail.com
 
+> [!NOTE]
+> Pobieranie faktur (sprzedaży i zakupu) będzie wspierane wkrótce.
+
 ## Wstęp
 KSeF to platforma do wystawiania, przesyłania, otrzymywania i przechowywania faktur (https://ksef.podatki.gov.pl/). Platforma jest wdrażana w różnych etapach, ale wcześniej czy później będzie obowiązkowa dla wszystkich przedsiębiorców.
 
