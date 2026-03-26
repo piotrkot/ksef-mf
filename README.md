@@ -49,7 +49,9 @@ Uruchom plik `ksef-cmd.sh` z katalogu `consoleapp`.
 
 ### Przykłady
 
-`$> ksef-cmd --demo --doc=fa.xml --nip=1234567890 --token=\"20260226-EC-22...625\""`
+#### Wysyłanie faktury
+
+`$> ksef-cmd --demo --doc=fa.xml --nip=1234567890 --token="20260226-EC-22...625"`
 
 `$> ksef-cmd --out=/tmp --doc=fa.xml --nip=1234567890 --token='20260226-EC-22...625'`
 
